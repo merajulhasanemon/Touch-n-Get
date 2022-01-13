@@ -1,0 +1,300 @@
+@charset "utf-8";
+
+
+@media only screen and (max-width: 1600px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 1440px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 1380px)
+{
+	.gallery_images_row 
+	{
+		margin-bottom: 55px;
+		margin-right: 131px !important;
+	}
+}
+
+
+
+@media only screen and (max-width: 1280px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 1199px)
+{
+	.gallery_images_row 
+	{
+		margin-bottom: 60px;
+		margin-right: 130px !important;
+	}
+	
+}
+
+
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 991px)
+{
+	.img-fluid 
+	{
+		margin-left: 25px;
+		margin-top: 65px;
+	}
+
+	.left_item p 
+	{
+		font-size: 14px;
+	}
+
+	.promo-title 
+	{
+		font-size: 45px;
+		font-weight: 600;
+		margin-top: 50px;
+	}
+
+	.myoffers_one 
+	{
+		margin-bottom: 75px;
+	}
+
+	.about-us img 
+	{
+		margin-top: 50px;
+		margin-left: auto;
+		width: 100%;
+		height: auto;
+	}
+
+	.about-title 
+	{
+		font-size: 35px;
+		font-weight: 600;
+		margin-top: 2%;
+	}
+
+	#about-us ul li 
+	{
+		margin: 10px 0;
+		font-size: 15px;
+	}
+
+	.testimonial p 
+	{
+		font-size: 15px;
+	}
+
+	#testimonial 
+	{
+		margin: 50px 0;
+	}
+
+	#social-media
+	{
+		padding: 100px 0;
+	}
+	
+	.gallery_images_row img 
+	{
+		cursor: pointer;
+		margin-top: -25px;
+	}
+	
+	.gallery h2 
+	{
+		margin-right: 86px;
+		font-size: 30px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+
+@media only screen and (max-width: 880px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 768px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 767px)
+{
+	.img-fluid 
+	{
+		margin-left: -10px;
+		margin-top: -100px;
+	}
+
+	.left_item p 
+	{
+		font-size: 17px;
+	}
+
+	.promo-title 
+	{
+		font-size: 55px;
+		font-weight: 700;
+	}
+
+	.description 
+	{
+		font-size: 14px;
+		margin-bottom: 40px;
+	}
+	
+	.gallery_images_row 
+	{
+		margin-right: 40px !important;
+	}
+	
+}
+
+
+
+@media only screen and (max-width: 575px)
+{
+	.copyright
+	{
+		font-size: 12px;
+	}
+	
+	.gallery_images_row img 
+	{
+		margin-top: 40px;
+	}
+	
+	.gallery_images_row 
+	{
+		margin-bottom: 0px;
+	}
+	
+	.gallery h2 
+	{
+		margin-right: 76px;
+		font-size: 26px;
+		margin-bottom: 10px;
+	}
+	
+}
+
+
+@media only screen and (max-width: 539px)
+{
+	.title 
+	{
+		letter-spacing: 6px;
+		font-size: 40px;
+	}
+	.title::before
+	{
+		transform: translateY(58px);
+	}
+
+
+
+@media only screen and (max-width: 480px)
+{
+	
+}
+
+
+
+@media only screen and (max-width: 479px)
+{
+	.title 
+	{
+		letter-spacing: 5px;
+		font-size: 35px;
+	}
+
+	#social-media p 
+	{
+		font-size: 27px;
+		font-weight: 700;
+	}
+
+	.social-icons img 
+	{
+		width: 50px;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 400px)
+{
+	.title 
+	{
+		letter-spacing: 3px;
+		font-size: 25px;
+	}
+
+	.title::before
+	{
+		transform: translateY(46px);
+	}
+
+	#social-media p 
+	{
+		font-size: 25px;
+		font-weight: 700;
+	}
+
+	.social-icons img 
+	{
+		width: 45px;
+	}
+	
+	.gallery h2 
+	{
+		margin-right: 30px;
+		font-size: 21px;
+		margin-bottom: 10px;
+	}
+	
+	.gallery_images_row 
+	{
+		margin-right: 0px !important;
+	}
+
+}
